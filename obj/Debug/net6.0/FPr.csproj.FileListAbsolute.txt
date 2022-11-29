@@ -1,0 +1,15 @@
+C:\Users\МВидео\OneDrive\Документы\GitHub\FPr\obj\Debug\net6.0\FPr.csproj.AssemblyReference.cache
+C:\Users\МВидео\OneDrive\Документы\GitHub\FPr\obj\Debug\net6.0\FPr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МВидео\OneDrive\Документы\GitHub\FPr\obj\Debug\net6.0\FPr.AssemblyInfoInputs.cache
+C:\Users\МВидео\OneDrive\Документы\GitHub\FPr\obj\Debug\net6.0\FPr.AssemblyInfo.cs
+C:\Users\МВидео\OneDrive\Документы\GitHub\FPr\obj\Debug\net6.0\FPr.csproj.CoreCompileInputs.cache
+C:\Users\МВидео\OneDrive\Документы\GitHub\FPr\bin\Debug\net6.0\FPr.exe
+C:\Users\МВидео\OneDrive\Документы\GitHub\FPr\bin\Debug\net6.0\FPr.deps.json
+C:\Users\МВидео\OneDrive\Документы\GitHub\FPr\bin\Debug\net6.0\FPr.runtimeconfig.json
+C:\Users\МВидео\OneDrive\Документы\GitHub\FPr\bin\Debug\net6.0\FPr.dll
+C:\Users\МВидео\OneDrive\Документы\GitHub\FPr\bin\Debug\net6.0\FPr.pdb
+C:\Users\МВидео\OneDrive\Документы\GitHub\FPr\obj\Debug\net6.0\FPr.dll
+C:\Users\МВидео\OneDrive\Документы\GitHub\FPr\obj\Debug\net6.0\refint\FPr.dll
+C:\Users\МВидео\OneDrive\Документы\GitHub\FPr\obj\Debug\net6.0\FPr.pdb
+C:\Users\МВидео\OneDrive\Документы\GitHub\FPr\obj\Debug\net6.0\FPr.genruntimeconfig.cache
+C:\Users\МВидео\OneDrive\Документы\GitHub\FPr\obj\Debug\net6.0\ref\FPr.dll
